@@ -9,7 +9,7 @@ function App() {
         <img src={logo} className="App-logo" alt="logo" />
         <p>
           
-          I moved to feature branch.        </p>
+          I move    </p>
         <a
           className="App-link"
           href="https://reactjs.org"
